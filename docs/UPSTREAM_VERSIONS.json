@@ -1,0 +1,73 @@
+{
+  "reviewed_date": "2026-10-21",
+  "frontend_version": "0.1.0",
+  "engine": {
+    "repository": "https://github.com/PedroMarinhoDev/ComfyUI-Drama3",
+    "reviewed_commit": "67a733a96890637dc27b1914974ad00c569405fb",
+    "commit_date": "2026-10-17T12:56:49Z",
+    "tested_installation_commit": "not captured"
+  },
+  "models": [
+    {
+      "repository": "PedroMarinhoDev/Drama-3-ComfyUI",
+      "revision": "681e2fae64af1f12e64b9c19c82930a5f3bba1a4",
+      "files": [
+        ".gitattributes",
+        "LICENSE",
+        "NOTICE",
+        "README.md",
+        "assets/banner-light.png",
+        "drama3_codec.safetensors",
+        "drama3_fp8experts_bf16.safetensors",
+        "drama3_int8experts_bf16.safetensors",
+        "drama3_w4a8experts_bf16.safetensors",
+        "drama3_w6a8experts_bf16.safetensors",
+        "samples/cloning.mp3",
+        "samples/cloning_source.mp3",
+        "samples/cues.mp3",
+        "samples/dialogue.mp3",
+        "samples/dnd.mp3",
+        "samples/futebol.mp3",
+        "samples/toast.mp3"
+      ]
+    },
+    {
+      "repository": "PedroMarinhoDev/Qwen3-ASR-ComfyUI",
+      "revision": "6ad8c9be026925839479a8d97749068a4202fbe9",
+      "files": [
+        ".gitattributes",
+        "LICENSE",
+        "NOTICE",
+        "README.md",
+        "qwen3_asr_0.6b_bf16.safetensors",
+        "qwen3_asr_1.7b_bf16.safetensors",
+        "qwen3_forced_aligner_0.6b_bf16.safetensors"
+      ]
+    },
+    {
+      "repository": "fishaudio/drama-3",
+      "revision": "b2b5ee998034b2975720906c815e7fb0e9f007bd",
+      "files": [
+        ".gitattributes",
+        "LICENSE",
+        "README.md",
+        "chat_template.jinja",
+        "codec.pth",
+        "config.json",
+        "model-00001-of-00008.safetensors",
+        "model-00002-of-00008.safetensors",
+        "model-00003-of-00008.safetensors",
+        "model-00004-of-00008.safetensors",
+        "model-00005-of-00008.safetensors",
+        "model-00006-of-00008.safetensors",
+        "model-00007-of-00008.safetensors",
+        "model-00008-of-00008.safetensors",
+        "model.safetensors.index.json",
+        "special_tokens_map.json",
+        "tokenizer.json",
+        "tokenizer_config.json"
+      ]
+    }
+  ],
+  "scope": "Reviewed source references; these are not all confirmed end-to-end tested versions."
+}

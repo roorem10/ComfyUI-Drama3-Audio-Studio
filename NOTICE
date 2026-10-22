@@ -1,0 +1,11 @@
+Drama 3 Audio Studio for ComfyUI
+Public preservation release 0.1.0 (2026-10-21)
+Copyright (C) 2026 Drama 3 Audio Studio contributors
+SPDX-License-Identifier: GPL-3.0-or-later
+
+This frontend is free software under GNU GPL version 3 or, at your option,
+any later version. It is distributed without warranty. See LICENSE.
+
+Built with Fish Audio.
+External engines and model files are not bundled and retain their licenses.
+See THIRD_PARTY_NOTICES.md for links and attribution.
